@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lucidogen/ThreeCSG/issues"
   },
-  "homepage": "https://github.com/lucidogen/ThreeCSG#readme"
+  "homepage": "https://github.com/lucidogen/ThreeCSG#readme",
+  "dependencies": {
+    "three": "^0.71.1"
+  }
 }

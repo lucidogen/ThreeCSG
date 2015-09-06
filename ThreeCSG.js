@@ -1,4 +1,5 @@
 'use strict';
+var THREE = require ( 'three' )
 module.exports = (function() {
 	
 	var ThreeBSP,
