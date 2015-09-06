@@ -1,5 +1,5 @@
 'use strict';
-window.ThreeBSP = (function() {
+module.exports = (function() {
 	
 	var ThreeBSP,
 		EPSILON = 1e-5,

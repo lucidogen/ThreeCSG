@@ -1,0 +1,24 @@
+{
+  "name": "three-csg",
+  "version": "1.0.0",
+  "description": "Constructive Solid Geometry for THREE.js",
+  "main": "ThreeCSG.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucidogen/ThreeCSG.git"
+  },
+  "keywords": [
+    "three",
+    "csg",
+    "geometry"
+  ],
+  "author": "Gaspard Bucher <gaspard@lucidogen.io> (http://lucidogen.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucidogen/ThreeCSG/issues"
+  },
+  "homepage": "https://github.com/lucidogen/ThreeCSG#readme"
+}
