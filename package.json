@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lucidogen/ThreeCSG#readme",
   "dependencies": {
-    "three": "^0.71.1"
+    "three": "^0.72.0"
   }
 }
